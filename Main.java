@@ -9,10 +9,9 @@ public class Main{
         while(t > 0){
             int n = sc.nextInt();
             for(int i=0; i<n; i++){
-                int x = sc.nextInt();
+          
             }
-            System.out.println();
-            t--;
         }
+        t--;
     }
 }
